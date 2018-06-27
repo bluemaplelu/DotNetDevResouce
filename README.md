@@ -12,5 +12,10 @@ https://github.com/quozd/awesome-dotnet
 https://github.com/tallesl/net-libraries-that-make-your-life-easier
 ## Awesome Awesomeness
 https://github.com/bayandin/awesome-awesomeness
+
+## Http operation
+https://github.com/restsharp/RestSharp   
+RestSharp:Simple REST and HTTP API Client for .NET
+
 ## 相关资料汇总
 https://blog.csdn.net/andyliulin/article/details/57990547
